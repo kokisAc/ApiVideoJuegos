@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mexico",
+        "continente": "America",
+        "descripcion": "Se encuentra en el centro de America",
+        "fecha": "2024-11-19T06:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "nombre": "Rusia",
+        "continente": "Europa-Asia",
+        "descripcion": "Es un pais euroasiático por su gran extencion territorial", 
+        "fecha": "2024-11-14T06:00:00.000Z"
+    },
+    {
+    "id": 4,
+    "nombre": "Colombia",
+    "continente": "America",
+    "descripcion": "Se encuentra en el sur de America",
+    "fecha": "2024-11-18T06:00:00.000Z"
+    }
+]
